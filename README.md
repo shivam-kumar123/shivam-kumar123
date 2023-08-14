@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chat Application](https://github.com/shivam-kumar123/realtimeChatAppClient2.0)
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Web Sockets**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
