@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-kumar123" alt="shivam-kumar123" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Application](https://github.com/shivam-kumar123/realtimeChatAppClient2.0)
+- 🔭 I’m currently working on [File Sharing Mobile App](https://github.com/shivam-kumar123/files-fly-client-mobile)
 
-- 🌱 I’m currently learning **Web Sockets**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivam-kumar123?tab=repositories](https://github.com/shivam-kumar123?tab=repositories)
 
-- 💬 Ask me about **React , Node , JS and Mongo DB**
+- 💬 Ask me about **React , Node , JS , C++ , OS , CN , OOPS , System Design , React Native CLI , DSA**
 
 - 📫 How to reach me **shivam100nsingh@gmail.com**
 
